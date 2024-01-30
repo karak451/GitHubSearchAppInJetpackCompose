@@ -10,6 +10,10 @@ Az app két képernyőből áll:
   
 <b>b) ReszletezesView</b> - itt lehet az egyes repository találatokat megnézni valamivel részletesebben
 
+<a href="https://github.com/karak451/GitHubSearchAppUIKit">UIKit verzió (befejezetlen)</a>
+ || 
+<a href="https://github.com/karak451/GitHubSearchAppInSwiftUI">SwiftUI verzió</a>
+
 <h1>Képernyőképek</h1>
 <div style="width: 100%;">
 <img src="https://azatlasz.hu/appok/img/android_01.png" style="width: 18%;">
